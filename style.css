@@ -76,6 +76,7 @@ body {
 }
 .tasks .task span:hover{
     background-color: rgb(252, 27, 46);
+}
 .delete-all {
     width: calc(100% - 25px);
     margin: auto;
