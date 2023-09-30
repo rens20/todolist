@@ -92,3 +92,33 @@ body {
 .delete-all:hover{
     background-color: #db0e0e;
 }
+@media (max-width: 480px) {
+    .container {
+        width: 95%;
+    }
+
+    .form {
+        padding: 5px;
+    }
+
+    .input {
+        padding: 6px;
+    }
+
+    .add {
+        padding: 6px;
+        margin-left: 3px;
+    }
+
+    .tasks {
+        padding: 5px;
+    }
+
+    .tasks .task {
+        padding: 6px;
+    }
+
+    .delete-all {
+        padding: 6px;
+    }
+}
