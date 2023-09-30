@@ -121,4 +121,7 @@ body {
     .delete-all {
         padding: 6px;
     }
+    body {
+        background-size: contain;
+    }
 }
